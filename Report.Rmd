@@ -1,5 +1,5 @@
 ---
-title: "RBIF-109 Course Project"
+title: "Metagenomics analysis for sepsis detection using Galaxy server and R"
 author: "Rita Pecuch"
 date: "October 2025"
 output: html_document
